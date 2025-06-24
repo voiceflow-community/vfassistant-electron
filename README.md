@@ -79,3 +79,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 We can talk about this project on Discord
 https://discord.gg/9JRv5buT39
+
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=voiceflow-community_vfassistant-electron&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=voiceflow-community_vfassistant-electron)
